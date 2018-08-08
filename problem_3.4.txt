@@ -1,0 +1,22 @@
+
+Using the Fraction class. Write a program named FractionMath
+that prompt the user for two fractions, which are then combine
+using addition, subtraction, multiplication, and division. Here's
+What the user wuill see on the scree:
+
+this program performs arithmetic operations on two fractions.
+
+Enter first fraction: 3/5
+Enter second fraction: 1/4
+
+sum: 23/10
+difference : 13/30
+product: 3/30
+quotient: 18/5
+
+you can assume that the user always enter two integers separeted
+by a slash (/). However, the user may enter anu number of spaces
+before and after each integer.
+
+Hint: use the indexOf, substring, and trim methods form the
+String class.
